@@ -4,7 +4,7 @@ A sample App to display a collection view based on SwiftuI.
 
 # Source
 
-The Tokyo image sources fetch from [Unsplash](https://unsplash.com)
+The image sources fetch from [Unsplash](https://unsplash.com)
 
 # Before 
 
